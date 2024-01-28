@@ -1,0 +1,10 @@
+@import '../../styles/contants.scss';
+
+.wrapper {
+    position: relative;
+    overflow: hidden;
+    img {
+        width: 400px;
+        height: auto;
+    }
+}
